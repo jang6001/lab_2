@@ -1,0 +1,22 @@
+vim test_server.js
+sudo apt-get install curl
+vim test_server.js
+node test_server.js
+vim test_server.js
+node test_server.js
+vim test_server.js
+node test_server.js
+vim test_server.js
+node test_server.js
+vim test_server.js
+node test_server.js
+vim test_server.js
+node test_server.js
+vim test_server.js
+vim test_server1.js
+node test_server1.js
+vim test_server1.js
+node test_server1.js
+vim test_server1.js
+node test_server1.js
+vim test_server1.js
